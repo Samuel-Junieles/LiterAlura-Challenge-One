@@ -1,4 +1,4 @@
-# # Literalura - Challenge ONE Java
+# Literalura - Challenge ONE Java
 
 **Literalura** es un catálogo literario interactivo desarrollado en Java. El sistema permite consumir datos de la API **Gutendex**, procesarlos y almacenarlos en una base de datos relacional para realizar consultas avanzadas y generar estadísticas.
 
